@@ -9,7 +9,7 @@
        <p>hra se odehrava v kostickovem svete</p>
        <h2>Mapa</h2>
        <p>Mapa je velka a cim dal je clovek od spawnu tim vic se hra laguje<br>
-       Dovednostni strom obsahuje tri typy</p>
+       </p>
       <b>hodnoceni 11/10</b>
       <i>Hra je opravdu super</i>
            <p><span style="color:red"> hra bezi plynule </span></p>
